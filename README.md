@@ -6,3 +6,5 @@ cannot believe it
 
 are you sure
 et voila comme ca c fini
+
+Added last line part 1
