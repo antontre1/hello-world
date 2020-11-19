@@ -8,3 +8,6 @@ are you sure
 et voila comme ca c fini
 
 Added last line part 1
+ajout de la partie 2
+Added part 3
+Added part 4
